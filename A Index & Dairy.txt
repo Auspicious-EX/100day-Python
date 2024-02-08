@@ -1,0 +1,105 @@
+        Index 
+DAY-1  : What is Programming and Python?
+DAY 2  : Power of Python
+DAY 3  : Modules and pip
+DAY 4  : Our First Python Program
+DAY 5  : Comments, Escape Sequences & Print Statement 
+DAY 6  : Variables and Data Types
+DAY 7  : Exercise 1: Calculator using Python
+DAY 8  : Solution of Exercise 1
+DAY 9  : Typecasting in Python
+DAY 10 : Taking User Input in Python
+DAY 11 : Strings in Python
+                > Accessing Characters of a String
+                > Indexing
+DAY 12 : Strings Slicing and Operations on Strings in Python
+                > Length 
+                > Loop through a String
+DAY 13 : 
+DAY 14 :
+DAY 15 :
+DAY 16 :
+DAY 17 :
+DAY 18 :
+DAY 19 :
+DAY 20 :
+DAY 21 :
+DAY 22 :
+DAY 23 :
+DAY 24 :
+DAY 25 :
+DAY 26 :
+DAY 27 :
+DAY 28 :
+DAY 29 :
+DAY 30 :
+DAY 31 :
+DAY 32 :
+DAY 33 :
+DAY 34 :
+DAY 35 :
+DAY 36 :
+DAY 37 :
+DAY 38 :
+DAY 39 :
+DAY 40 :
+DAY 41 :
+DAY 42 :
+DAY 43 :
+DAY 44 :
+DAY 45 :
+DAY 46 :
+DAY 47 :
+DAY 48 :
+DAY 49 :
+DAY 50 :
+DAY 51 :
+DAY 52 :
+DAY 53 :
+DAY 54 :
+DAY 55 :
+DAY 56 :
+DAY 57 :
+DAY 58 :
+DAY 59 :
+DAY 60 :
+DAY 61 :
+DAY 62 :
+DAY 63 :
+DAY 64 :
+DAY 65 :
+DAY 66 :
+DAY 67 :
+DAY 68 :
+DAY 69 :
+DAY 70 :
+DAY 71 :
+DAY 72 :
+DAY 73 :
+DAY 74 :
+DAY 75 :
+DAY 76 :
+DAY 77 :
+DAY 78 :
+DAY 79 :
+DAY 80 :
+DAY 81 :
+DAY 82 :
+DAY 83 :
+DAY 84 :
+DAY 85 :
+DAY 86 :
+DAY 87 :
+DAY 88 :
+DAY 89 :
+DAY 90 :
+DAY 91 :
+DAY 92 :
+DAY 93 :
+DAY 94 :
+DAY 95 :
+DAY 96 :
+DAY 97 :
+DAY 98 :
+DAY 99 :
+DAY 100 :
