@@ -15,7 +15,7 @@ DAY 11 : Strings in Python
 DAY 12 : Strings Slicing and Operations on Strings in Python
                 > Length 
                 > Loop through a String
-DAY 13 : 
+DAY 13 : String Methods in Python
 DAY 14 :
 DAY 15 :
 DAY 16 :
