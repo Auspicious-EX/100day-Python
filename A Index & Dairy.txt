@@ -18,7 +18,7 @@ DAY 12 : Strings Slicing and Operations on Strings in Python
 DAY 13 : String Methods in Python
 DAY 14 : If Else Conditional Statements in Python
 DAY 15 : Solution of Exercise 2
-DAY 16 :
+DAY 16 : Match Case Statements in Python
 DAY 17 :
 DAY 18 :
 DAY 19 :
