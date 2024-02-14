@@ -24,7 +24,7 @@ DAY 18 : While Loops in Python
 DAY 19 : break and continue in Python
                 > Do While Loop
 DAY 20 : Functions in Python
-DAY 21 :
+DAY 21 : Function Arguments in Python
 DAY 22 :
 DAY 23 :
 DAY 24 :
