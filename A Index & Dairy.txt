@@ -26,7 +26,7 @@ DAY 19 : break and continue in Python
 DAY 20 : Functions in Python
 DAY 21 : Function Arguments in Python
 DAY 22 : Introduction to Lists in Python
-DAY 23 :
+DAY 23 : List Methods in Python 
 DAY 24 :
 DAY 25 :
 DAY 26 :
