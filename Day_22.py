@@ -42,6 +42,12 @@ print(lst[-3])
 print(lst[-2])
 print(lst[-1])
 
+# Example: Negative indexing
+print(lst[-3])
+print(lst[len(lst) - 3])
+print(lst[1])
+print(lst[4 - 3])
+
 # Example 4: Checking if an item exists in a list
 if 7 in lst:
     print("Yes")
@@ -65,6 +71,12 @@ print(lst[:3])
 print(lst[0:])
 print(lst[0:-1])
 print(lst[0:3:2])
+
+# Example: List comprehension
+animals = ["cat", "dog", "bat", "mouse", "pig", "horse", "donkey", "goat", "cow"]
+print(animals[1:8:3])
+print(animals[::2])         # Using positive indexes
+print(animals[-8:-1:2])     # Using negative indexes
 
 # Example 8: Using list comprehension to create new lists
 squares = [i * i for i in range(4)]
