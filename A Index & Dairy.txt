@@ -1,5 +1,5 @@
         Index 
-DAY-1  : What is Programming and Python?
+DAY 1  : What is Programming and Python?
 DAY 2  : Power of Python
 DAY 3  : Modules and pip
 DAY 4  : Our First Python Program
@@ -28,7 +28,8 @@ DAY 21 : Function Arguments in Python
 DAY 22 : Introduction to Lists in Python
 DAY 23 : List Methods in Python 
 DAY 24 : Tuples in Python
-DAY 25 :
+DAY 25 : Operations on Tuples in Python
+                > Manipulating Tuples
 DAY 26 :
 DAY 27 :
 DAY 28 :
