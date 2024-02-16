@@ -30,7 +30,7 @@ DAY 23 : List Methods in Python
 DAY 24 : Tuples in Python
 DAY 25 : Operations on Tuples in Python
                 > Manipulating Tuples
-DAY 26 :
+DAY 26 : Exercise 2: Solution
 DAY 27 :
 DAY 28 :
 DAY 29 :
