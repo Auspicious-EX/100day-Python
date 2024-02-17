@@ -33,8 +33,9 @@ DAY 25 : Operations on Tuples in Python
 DAY 26 : Exercise 2: Solution
 DAY 27 : Exercise 3: Kaun Banega Crorepati (KBC) 
 DAY 28 : f-strings in Python
-DAY 29 :
-DAY 30 :
+DAY 29 : Docstrings in Python
+                > Terminal : import this
+DAY 30 : 
 DAY 31 :
 DAY 32 :
 DAY 33 :
