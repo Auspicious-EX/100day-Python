@@ -31,7 +31,7 @@ DAY 24 : Tuples in Python
 DAY 25 : Operations on Tuples in Python
                 > Manipulating Tuples
 DAY 26 : Exercise 2: Solution
-DAY 27 :
+DAY 27 : Exercise 3: Kaun Banega Crorepati (KBC) 
 DAY 28 :
 DAY 29 :
 DAY 30 :
