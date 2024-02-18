@@ -39,7 +39,7 @@ DAY 30 : Recursion in Python
 DAY 31 : Sets in Python
 DAY 32 : Set Methods in Python
 DAY 33 : Dictionaries in Python
-DAY 34 :
+DAY 34 : Dictionary Methods in Python
 DAY 35 :
 DAY 36 :
 DAY 37 :
