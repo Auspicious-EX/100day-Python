@@ -35,7 +35,7 @@ DAY 27 : Exercise 3: Kaun Banega Crorepati (KBC)
 DAY 28 : f-strings in Python
 DAY 29 : Docstrings in Python
                 > Terminal : import this
-DAY 30 : 
+DAY 30 : Recursion in Python
 DAY 31 :
 DAY 32 :
 DAY 33 :
