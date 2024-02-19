@@ -45,7 +45,7 @@ DAY 36 : Exception Handling in Python
 DAY 37 : Finally keyword in Python
 DAY 38 : Raising custom errors in Python
 DAY 39 : Kaun Banega Crorepati: Exercise 3 - Solution & Shoutouts
-DAY 40 :
+DAY 40 : Exercise 4: Secret Code Language
 DAY 41 :
 DAY 42 :
 DAY 43 :
