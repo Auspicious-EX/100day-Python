@@ -41,7 +41,7 @@ DAY 32 : Set Methods in Python
 DAY 33 : Dictionaries in Python
 DAY 34 : Dictionary Methods in Python
 DAY 35 : for Loop with else in Python
-DAY 36 :
+DAY 36 : Exception Handling in Python
 DAY 37 :
 DAY 38 :
 DAY 39 :
