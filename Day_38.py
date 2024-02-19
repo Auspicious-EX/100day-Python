@@ -51,7 +51,6 @@ except SalaryOutOfRangeError as e:
     # Handling code for the custom error
     print(e)
 
-#Example:
 # Asking user to enter a value or "quit" to exit
 value = input("Enter any value or 'quit' to exit: ")
 
