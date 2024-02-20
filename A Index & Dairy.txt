@@ -48,7 +48,7 @@ DAY 39 : Kaun Banega Crorepati: Exercise 3 - Solution & Shoutouts
 DAY 40 : Exercise 4: Secret Code Language
 DAY 41 : Short hand if else statements 
 DAY 42 : Enumerate Function in Python
-DAY 43 :
+DAY 43 : Virtual Environment in Python
 DAY 44 :
 DAY 45 :
 DAY 46 :
