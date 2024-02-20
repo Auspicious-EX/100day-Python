@@ -47,7 +47,7 @@ DAY 38 : Raising custom errors in Python
 DAY 39 : Kaun Banega Crorepati: Exercise 3 - Solution & Shoutouts
 DAY 40 : Exercise 4: Secret Code Language
 DAY 41 : Short hand if else statements 
-DAY 42 :
+DAY 42 : Enumerate Function in Python
 DAY 43 :
 DAY 44 :
 DAY 45 :
