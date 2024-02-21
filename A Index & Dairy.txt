@@ -52,7 +52,7 @@ DAY 43 : Virtual Environment in Python
 DAY 44 : How import works in Python
 DAY 45 : if __name__ == "__main__" in Python
 DAY 46 : os Module in Python
-DAY 47 :
+DAY 47 : Exercise 4: Solutions and Shoutouts 
 DAY 48 :
 DAY 49 :
 DAY 50 :
