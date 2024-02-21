@@ -55,7 +55,7 @@ DAY 46 : os Module in Python
 DAY 47 : Exercise 4: Solutions and Shoutouts 
 DAY 48 : Local vs Global Variables in Python
 DAY 49 : File IO in Python
-DAY 50 :
+DAY 50 : read(), readlines() and other methods
 DAY 51 :
 DAY 52 :
 DAY 53 :
