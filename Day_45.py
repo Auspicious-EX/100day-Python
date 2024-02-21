@@ -37,9 +37,9 @@ If you run this script directly, it will output "Running script directly". Howev
 
 This can be useful if you have code that you want to reuse in multiple scripts, but you only want it to run when the script is run directly and not when it's imported as a module.
 """
-import script
+# import script
 
-script.main()  # Output: "Running script directly"
+# script.main()  # Output: "Running script directly"
 
 """ 
 Is it a necessity?
