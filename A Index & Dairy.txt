@@ -54,7 +54,7 @@ DAY 45 : if __name__ == "__main__" in Python
 DAY 46 : os Module in Python
 DAY 47 : Exercise 4: Solutions and Shoutouts 
 DAY 48 : Local vs Global Variables in Python
-DAY 49 :
+DAY 49 : File IO in Python
 DAY 50 :
 DAY 51 :
 DAY 52 :
