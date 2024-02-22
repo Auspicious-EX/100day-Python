@@ -58,7 +58,7 @@ DAY 49 : File IO in Python
 DAY 50 : read(), readlines() and other methods
 DAY 51 : seek(), tell() and other functions
 DAY 52 : Lambda functions in Python
-DAY 53 :
+DAY 53 : Map, Filter and Reduce in Python 
 DAY 54 :
 DAY 55 :
 DAY 56 :
