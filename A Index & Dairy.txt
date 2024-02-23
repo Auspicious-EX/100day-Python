@@ -61,7 +61,7 @@ DAY 52 : Lambda functions in Python
 DAY 53 : Map, Filter and Reduce in Python 
 DAY 54 : 'is' vs '==' in Python
 DAY 55 : Exercise 5 - Snake Water Gun | Python Tutorial - Day #55
-DAY 56 :
+DAY 56 : Introduction to OOPs in Python 
 DAY 57 :
 DAY 58 :
 DAY 59 :
