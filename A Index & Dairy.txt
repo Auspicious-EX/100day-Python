@@ -62,7 +62,7 @@ DAY 53 : Map, Filter and Reduce in Python
 DAY 54 : 'is' vs '==' in Python
 DAY 55 : Exercise 5 - Snake Water Gun | Python Tutorial - Day #55
 DAY 56 : Introduction to OOPs in Python 
-DAY 57 :
+DAY 57 : Classes and Objects in Python 
 DAY 58 :
 DAY 59 :
 DAY 60 :
