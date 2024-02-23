@@ -64,7 +64,7 @@ DAY 55 : Exercise 5 - Snake Water Gun | Python Tutorial - Day #55
 DAY 56 : Introduction to OOPs in Python 
 DAY 57 : Classes and Objects in Python 
 DAY 58 : Constructors in Python
-DAY 59 :
+DAY 59 : Decorators in Python
 DAY 60 :
 DAY 61 :
 DAY 62 :
