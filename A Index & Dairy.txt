@@ -66,7 +66,7 @@ DAY 57 : Classes and Objects in Python
 DAY 58 : Constructors in Python
 DAY 59 : Decorators in Python
 DAY 60 : Getters and Setters in Python
-DAY 61 :
+DAY 61 : Inheritance in Python
 DAY 62 :
 DAY 63 :
 DAY 64 :
