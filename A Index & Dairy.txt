@@ -76,7 +76,7 @@ DAY 66 : Instance variables vs Class variables in Python
 DAY 67 : Exercise 6 Solution - Library Management Software in Python
 DAY 68 : Exercise 7 - Clear the Clutter 
 DAY 69 : Class Methods in Python
-DAY 70 :
+DAY 70 : Class Methods as Alternative Constructors in Python
 DAY 71 :
 DAY 72 :
 DAY 73 :
