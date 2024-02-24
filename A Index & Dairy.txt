@@ -74,7 +74,7 @@ DAY 64 : Exercise 6 - Library Management System in Python
 DAY 65 : Static Methods in Python
 DAY 66 : Instance variables vs Class variables in Python
 DAY 67 : Exercise 6 Solution - Library Management Software in Python
-DAY 68 :
+DAY 68 : Exercise 7 - Clear the Clutter 
 DAY 69 :
 DAY 70 :
 DAY 71 :
