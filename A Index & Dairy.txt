@@ -70,7 +70,7 @@ DAY 61 : Inheritance in Python
 DAY 62 : Access Modifiers in Python
 DAY 63 : Snake Water Gun Game in Python - Exercise 5 - Solution
 DAY 64 : Exercise 6 - Library Management System in Python 
-DAY 65 :
+DAY 65 : Static Methods in Python
 DAY 66 :
 DAY 67 :
 DAY 68 :

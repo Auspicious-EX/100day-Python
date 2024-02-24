@@ -1,0 +1,1 @@
+# DAY 65 : Static Methods in Python
