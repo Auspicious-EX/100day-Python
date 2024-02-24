@@ -68,10 +68,11 @@ DAY 59 : Decorators in Python
 DAY 60 : Getters and Setters in Python
 DAY 61 : Inheritance in Python
 DAY 62 : Access Modifiers in Python
+                > Specifically there is no private , public, protetected Concepts in python
 DAY 63 : Snake Water Gun Game in Python - Exercise 5 - Solution
 DAY 64 : Exercise 6 - Library Management System in Python 
 DAY 65 : Static Methods in Python
-DAY 66 :
+DAY 66 : Instance variables vs Class variables in Python
 DAY 67 :
 DAY 68 :
 DAY 69 :
