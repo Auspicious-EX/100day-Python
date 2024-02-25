@@ -78,7 +78,7 @@ DAY 68 : Exercise 7 - Clear the Clutter
 DAY 69 : Class Methods in Python
 DAY 70 : Class Methods as Alternative Constructors in Python
 DAY 71 : dir, __dict__ and help method in Python
-DAY 72 :
+DAY 72 : super keyword in Python
 DAY 73 :
 DAY 74 :
 DAY 75 :
