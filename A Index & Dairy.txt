@@ -80,7 +80,7 @@ DAY 70 : Class Methods as Alternative Constructors in Python
 DAY 71 : dir, __dict__ and help method in Python
 DAY 72 : super keyword in Python
 DAY 73 : Magic/Dunder Methods in Python
-DAY 74 :
+DAY 74 : Method Overriding in Python
 DAY 75 :
 DAY 76 :
 DAY 77 :
