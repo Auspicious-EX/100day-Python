@@ -84,7 +84,7 @@ DAY 74 : Method Overriding in Python
 DAY 75 : Exercise 7 Solution + Shoutouts
 DAY 76 : Exercise 8 - Merge the PDF
 DAY 77 : Operator Overloading in Python
-DAY 78 :
+DAY 78 : Single Inheritance in Python
 DAY 79 :
 DAY 80 :
 DAY 81 :
