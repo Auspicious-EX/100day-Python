@@ -87,7 +87,7 @@ DAY 77 : Operator Overloading in Python
 DAY 78 : Single Inheritance in Python
 DAY 79 : Multiple Inheritance in Python
 DAY 80 : Multilevel Inheritance in Python 
-DAY 81 :
+DAY 81 : Hybrid and Hierarchical Inheritance in Python
 DAY 82 :
 DAY 83 :
 DAY 84 :
