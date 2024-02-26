@@ -82,7 +82,7 @@ DAY 72 : super keyword in Python
 DAY 73 : Magic/Dunder Methods in Python
 DAY 74 : Method Overriding in Python
 DAY 75 : Exercise 7 Solution + Shoutouts
-DAY 76 :
+DAY 76 : Exercise 8 - Merge the PDF
 DAY 77 :
 DAY 78 :
 DAY 79 :
