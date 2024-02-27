@@ -89,12 +89,14 @@ DAY 79 : Multiple Inheritance in Python
 DAY 80 : Multilevel Inheritance in Python 
 DAY 81 : Hybrid and Hierarchical Inheritance in Python
 DAY 82 : Exercise 8 - Merge the Pdf Solution in Python 
+                > using pyPDF2
 DAY 83 : Exercise 9 - Shoutouts to Everyone
 DAY 84 : Time Module in Python
 DAY 85 : Creating command line utility in python
 DAY 86 : Walrus Operator in Python
 DAY 87 : Shutil Module in Python
-DAY 88 :
+DAY 88 : Exercise 9: Solution - Shoutouts to Everyone
+                > using win32 
 DAY 89 :
 DAY 90 :
 DAY 91 :
