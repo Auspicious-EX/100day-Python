@@ -91,7 +91,7 @@ DAY 81 : Hybrid and Hierarchical Inheritance in Python
 DAY 82 : Exercise 8 - Merge the Pdf Solution in Python 
 DAY 83 : Exercise 9 - Shoutouts to Everyone
 DAY 84 : Time Module in Python
-DAY 85 :
+DAY 85 : Creating command line utility in python
 DAY 86 :
 DAY 87 :
 DAY 88 :
