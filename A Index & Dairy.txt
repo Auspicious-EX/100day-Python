@@ -97,7 +97,7 @@ DAY 86 : Walrus Operator in Python
 DAY 87 : Shutil Module in Python
 DAY 88 : Exercise 9: Solution - Shoutouts to Everyone
                 > using win32 
-DAY 89 :
+DAY 89 : Requests Module in Python
 DAY 90 :
 DAY 91 :
 DAY 92 :
