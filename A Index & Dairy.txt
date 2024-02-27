@@ -89,7 +89,7 @@ DAY 79 : Multiple Inheritance in Python
 DAY 80 : Multilevel Inheritance in Python 
 DAY 81 : Hybrid and Hierarchical Inheritance in Python
 DAY 82 : Exercise 8 - Merge the Pdf Solution in Python 
-DAY 83 :
+DAY 83 : Exercise 9 - Shoutouts to Everyone
 DAY 84 :
 DAY 85 :
 DAY 86 :
