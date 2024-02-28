@@ -99,13 +99,14 @@ DAY 88 : Exercise 9: Solution - Shoutouts to Everyone
                 > using win32 
 DAY 89 : Requests Module in Python
 DAY 90 : Exercise 10: News App in Python
-DAY 91 :
-DAY 92 :
-DAY 93 :
-DAY 94 :
-DAY 95 :
-DAY 96 :
-DAY 97 :
-DAY 98 :
-DAY 99 :
-DAY 100 :
+DAY 91 : Generators in Python
+DAY 92 : Function Caching in Python
+                > Memoization
+DAY 93 : Exercise 10 - News App Solution & Shoutout 
+DAY 94 : Exercise 11 - Drink Water Reminder 
+DAY 95 : Regular Expressions in Python 
+DAY 96 : AsyncIO in Python 
+DAY 97 : Multithreading in Python 
+DAY 98 : MultiProcessing in Python
+DAY 99 : Exercise 11: Solution + Shoutouts - Desktop Notification System
+DAY 100 : Conclusion and Where to go from here 
