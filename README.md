@@ -1,5 +1,4 @@
-[![MasterHead](https://github.com/Auspicious-EX/Sign.ex/blob/main/Images/Github%20banner.gif?raw=true)](https://)
-
+[![MasterHead](https://github.com/Auspicious-EX/100day-Python/blob/main/Banner-Image/100days-python.gif?raw=true)](https://)
 
 # My Python Learning Journey
 
